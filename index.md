@@ -1,10 +1,7 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: default 
 title: OVERQUALIFIDE Labs, llc
 ---
 <div class="welcome">
-  <p>OVERQUALIFIDE Labs is an artistic research center located in Boston, Massachusetts.</p>
+  <p><i>OVERQUALIFIDE Labs</i>&nbsp; is an artistic research center located in Boston, Massachusetts.</p>
 </div><!-- /.welcome -->
