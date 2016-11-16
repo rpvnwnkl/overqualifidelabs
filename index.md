@@ -3,5 +3,9 @@ layout: default
 title: OVERQUALIFIDE Labs, llc
 ---
 <div class="welcome">
-  <p>OVERQUALIFIDE Labs&nbsp;is an artistic research center located in Boston, Massachusetts.</p>
+  <p>
+    <span class="line">OVERQUALIFIDE Labs is an</span>
+    <span class="line">artistic research center</span>
+    <span class="line">located in Boston, Massachusetts.</span>
+  </p>
 </div><!-- /.welcome -->
